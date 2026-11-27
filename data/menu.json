@@ -734,6 +734,198 @@
       ]
     },
     {
+      "id": "wine-beer-spirits",
+      "label": {
+        "en": "Wine, Beer & Spirits",
+        "es": "Vinos, Cervezas y Licores"
+      },
+      "groups": [
+        {
+          "label": {
+            "en": "Wines",
+            "es": "Vinos"
+          },
+          "items": [
+            {
+              "name": {
+                "en": "Red Wine",
+                "es": "Vino tinto"
+              },
+              "price": "4.20",
+              "description": {
+                "en": "Rioja, Ribera del Duero or Madrid wine.",
+                "es": "Rioja, Ribera del Duero o vino de Madrid."
+              }
+            },
+            {
+              "name": {
+                "en": "White Wine",
+                "es": "Vino blanco"
+              },
+              "price": "4.20",
+              "description": {
+                "en": "Godello, Albariño, Verdejo or Madrid wine.",
+                "es": "Godello, Albariño, Verdejo o vino de Madrid."
+              }
+            },
+            {
+              "name": {
+                "en": "Rosé Wine",
+                "es": "Vino rosado"
+              },
+              "price": "4.20"
+            },
+            {
+              "name": {
+                "en": "Tinto de Verano",
+                "es": "Tinto de verano"
+              },
+              "price": "4.50"
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Beers",
+            "es": "Cervezas"
+          },
+          "items": [
+            {
+              "name": {
+                "en": "Mahou Cinco Estrellas or Gluten-Free",
+                "es": "Mahou Cinco Estrellas o sin gluten"
+              },
+              "price": "3.80"
+            },
+            {
+              "name": {
+                "en": "Alcohol-Free Lager",
+                "es": "Rubia sin alcohol"
+              },
+              "price": "3.80"
+            },
+            {
+              "name": {
+                "en": "Alcohol-Free Toasted Beer",
+                "es": "Tostada sin alcohol"
+              },
+              "price": "3.80"
+            },
+            {
+              "name": {
+                "en": "San Miguel Alcohol-Free",
+                "es": "San Miguel sin alcohol"
+              },
+              "price": "3.00"
+            },
+            {
+              "name": {
+                "en": "Radler",
+                "es": "Radler"
+              },
+              "price": "3.80"
+            },
+            {
+              "name": {
+                "en": "Alhambra",
+                "es": "Alhambra"
+              },
+              "price": "4.50"
+            }
+          ],
+          "note": {
+            "en": "Ask our team about the available selection.",
+            "es": "Consulta la variedad disponible con nuestro equipo."
+          }
+        },
+        {
+          "label": {
+            "en": "Premium",
+            "es": "Premium"
+          },
+          "items": [
+            {
+              "name": {
+                "en": "Johnnie Walker Black Label",
+                "es": "Johnnie Walker Black Label"
+              },
+              "price": "11.00"
+            },
+            {
+              "name": {
+                "en": "Veleto Vermouth",
+                "es": "Veleto Vermut"
+              },
+              "description": {
+                "en": "Montilla-Moriles vermouth from Córdoba, presented in an artisan stoneware porcelain bottle.",
+                "es": "Vermut Montilla-Moriles (Córdoba) en botella artesanal de porcelana gres."
+              },
+              "variants": [
+                {
+                  "label": {
+                    "en": "Veleto Dorado · glass",
+                    "es": "Veleto Dorado · copa"
+                  },
+                  "price": "5.50"
+                },
+                {
+                  "label": {
+                    "en": "Veleto Blanco · glass",
+                    "es": "Veleto Blanco · copa"
+                  },
+                  "price": "5.50"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": {
+            "en": "Cocktails & Spirits",
+            "es": "Otros"
+          },
+          "items": [
+            {
+              "name": {
+                "en": "Aperol Spritz",
+                "es": "Aperol Spritz"
+              },
+              "price": "9.50"
+            },
+            {
+              "name": {
+                "en": "Ballantine’s Whisky",
+                "es": "Whisky Ballantine’s"
+              },
+              "price": "9.50",
+              "description": {
+                "en": "Mixed with Coca-Cola or soda.",
+                "es": "Combinado con Coca-Cola o soda."
+              }
+            },
+            {
+              "name": {
+                "en": "Gin & Tonic",
+                "es": "Gin Tonic"
+              },
+              "price": "8.50"
+            },
+            {
+              "name": {
+                "en": "Gin",
+                "es": "Ginebra"
+              },
+              "price": "5.50"
+            }
+          ],
+          "note": {
+            "en": "Ask our team about the available selection.",
+            "es": "Consulta la variedad disponible con nuestro equipo."
+          }
+        }
+      ]
+    },
+    {
       "id": "tapas",
       "label": {
         "en": "Tapas",

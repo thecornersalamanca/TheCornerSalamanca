@@ -814,6 +814,14 @@
   color: var(--color-taupe);
 }
 
+.menu-group__note {
+  margin-block-start: var(--space-4);
+  color: var(--color-gold);
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-style: italic;
+}
+
 .menu-group__items {
   display: grid;
   grid-template-columns: 1fr;

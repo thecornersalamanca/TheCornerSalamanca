@@ -49,6 +49,7 @@ const renderGroup = (group, data, language) => `
     <div class="menu-group__items">
       ${(group.items ?? []).map((item) => renderItem(item, data, language)).join("")}
     </div>
+    ${group.note ? `<p class="menu-group__note">${localeValue(group.note, language)}</p>` : ""}
   </div>
 `;
 
