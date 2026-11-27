@@ -1,7 +1,7 @@
 {
   "version": 1,
   "total": 91,
-  "selectionCount": 15,
+  "selectionCount": 17,
   "images": [
     {
       "id": "dsc-5586",
@@ -31,7 +31,9 @@
       "aspectRatio": 0.6665,
       "original": "/assets/images/originals/coffee/dsc-5598.jpg",
       "optimized": "/assets/images/optimized/coffee/dsc-5598.webp",
-      "selectedFor": []
+      "selectedFor": [
+        "hero"
+      ]
     },
     {
       "id": "dsc-5608",
@@ -114,8 +116,7 @@
       "original": "/assets/images/originals/coffee/dsc-5635.jpg",
       "optimized": "/assets/images/optimized/coffee/dsc-5635.webp",
       "selectedFor": [
-        "coffee-support",
-        "gallery"
+        "coffee-support"
       ]
     },
     {
@@ -186,7 +187,9 @@
       "aspectRatio": 0.6665,
       "original": "/assets/images/originals/drinks/dsc-5660.jpg",
       "optimized": "/assets/images/optimized/drinks/dsc-5660.webp",
-      "selectedFor": []
+      "selectedFor": [
+        "gallery"
+      ]
     },
     {
       "id": "dsc-5661",
@@ -289,7 +292,7 @@
       "original": "/assets/images/originals/coffee/dsc-5683.jpg",
       "optimized": "/assets/images/optimized/coffee/dsc-5683.webp",
       "selectedFor": [
-        "summer-drinks"
+        "gallery"
       ]
     },
     {
@@ -342,7 +345,9 @@
       "aspectRatio": 0.667,
       "original": "/assets/images/originals/toasts/dsc-5700.jpg",
       "optimized": "/assets/images/optimized/toasts/dsc-5700.webp",
-      "selectedFor": []
+      "selectedFor": [
+        "gallery"
+      ]
     },
     {
       "id": "dsc-5701",
@@ -372,9 +377,7 @@
       "aspectRatio": 0.6665,
       "original": "/assets/images/originals/brunch/dsc-5704.jpg",
       "optimized": "/assets/images/optimized/brunch/dsc-5704.webp",
-      "selectedFor": [
-        "gallery"
-      ]
+      "selectedFor": []
     },
     {
       "id": "dsc-5707",
@@ -384,7 +387,9 @@
       "aspectRatio": 0.6665,
       "original": "/assets/images/originals/brunch/dsc-5707.jpg",
       "optimized": "/assets/images/optimized/brunch/dsc-5707.webp",
-      "selectedFor": []
+      "selectedFor": [
+        "gallery"
+      ]
     },
     {
       "id": "dsc-5708",
@@ -424,10 +429,7 @@
       "aspectRatio": 0.6665,
       "original": "/assets/images/originals/brunch/dsc-5720.jpg",
       "optimized": "/assets/images/optimized/brunch/dsc-5720.webp",
-      "selectedFor": [
-        "hero",
-        "gallery"
-      ]
+      "selectedFor": []
     },
     {
       "id": "dsc-5724",
@@ -788,7 +790,7 @@
       "original": "/assets/images/originals/process/dsc-5814.jpg",
       "optimized": "/assets/images/optimized/process/dsc-5814.webp",
       "selectedFor": [
-        "process-support"
+        "gallery"
       ]
     },
     {
